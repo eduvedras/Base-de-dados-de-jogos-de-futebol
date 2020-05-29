@@ -1,4 +1,4 @@
-# Projeto2
+# Sistema de gestão de uma base de dados de jogos de futebol amigáveis
 O objectivo deste projeto é o desenvolvimento, em linguagem C, de um sistema de
 gestão de uma base de dados de jogos de futebol amigáveis.
 A interacção com o programa deverá ocorrer através de um
